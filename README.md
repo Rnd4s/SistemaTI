@@ -15,7 +15,7 @@ O banco de dados foi construído seguindo as regras de normalização (3FN) e co
 * **Testes de Estresse:** Implementação de loop `WHILE` simulando testes em lote na integração das câmeras.
 
 ## 🗂️ Diagrama de Entidade e Relacionamento (DER)
-![Diagrama DER do Banco de Dados](diagrama_sistema_ti.png)
+![Diagrama DER do Banco de Dados](Diagrama_SistemaTI.png)
 
 ## 👨‍💻 Autor
 * **Rhandal Reis Moura** - Engenharia de Computação
